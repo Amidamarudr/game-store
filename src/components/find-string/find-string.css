@@ -1,0 +1,12 @@
+.find-string__input {
+    width: 500px;
+    font-size: 25px;
+    background-color: gray;
+    color: black;
+    border: 2px solid;
+    border-radius: 15px;
+}
+
+.find-string__input::placeholder {
+    color: black;
+}
